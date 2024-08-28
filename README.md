@@ -21,7 +21,10 @@ git clone https://github.com/j4nk3/PoC-Heaven.git
 
 ```sh
 python3 CVE-2015-1635.py <ip:port>
+python3 CVE-2024-44552.py <url>
 ```
+
+A PoC Use Case:
 
 <img width="1130" alt="image" src="https://github.com/user-attachments/assets/470e9bbe-8800-439d-bca6-d3afd220f5f1">
 
